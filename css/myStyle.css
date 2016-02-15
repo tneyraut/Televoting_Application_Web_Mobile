@@ -1,0 +1,104 @@
+.imgDescription
+{
+    float: right;
+    width: 50%;
+    margin-left: 16px;
+    margin-bottom: 16px;
+}
+
+.ui-slider-track
+{
+    margin-left: 95px;
+}
+
+button.valider
+{
+    float: left;
+    width: 32px;
+    height: 32px;
+    padding: 0px;
+    margin: 0px;
+    margin-right: 5px;
+}
+
+.clear
+{
+    clear: both;
+}
+
+.btn-nav
+{
+    padding: 0px;
+    width: 35px;
+    height: 35px;
+    float: left;
+}
+
+.center
+{
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+}
+
+.imageBarre
+{
+    width: 100%;
+    height: 100%;
+}
+
+.circle
+{
+    border: solid #00a2d6 6px;
+    border-radius: 50%;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.8);
+    background-repeat: no-repeat;
+}
+
+.circle a
+{
+    text-decoration: none;
+    width: 100%;
+    height: 100%;
+    font-size: 2em;
+    color: black;
+
+    display: block;
+    text-align: center;
+}
+
+.pageSuivante
+{
+    width: 10%;
+    float: right;
+}
+
+.pagePrecedente
+{
+    width: 10%;
+}
+            
+div[data-role="footer"] p
+{
+    padding-left: 10px;
+}
+
+.imageUpload {
+    width: 25%;
+    display: block;
+    margin: auto;
+}
+
+td, th {
+    padding: 5px;
+}
+
+table {
+    margin: auto;
+}
+
+/*.icon-cell {
+    width: 25%;
+    display: block;
+    margin: auto;
+}*/
